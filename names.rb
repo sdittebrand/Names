@@ -1,6 +1,6 @@
 fname = "Seth"
-
-puts "#{fname}"
+lname = "Dittebrand"
+puts "#{fname}" " " "#{lname}"
 
 
 
