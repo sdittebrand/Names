@@ -1,0 +1,7 @@
+fname = "Seth"
+
+puts "#{fname}"
+
+
+
+
